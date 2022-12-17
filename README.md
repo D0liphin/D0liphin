@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @D0liphin
+- 👀 I’m interested in Rust
+- 🌱 I’m currently learning how to write good Rust code
+- 💞️ I’m looking to collaborate on any Rust project that actually involves using my brain
+- 📫 How to reach me oli_iliffe@hotmail.com or idk... does GitHub have a way?
